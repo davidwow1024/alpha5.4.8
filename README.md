@@ -13,11 +13,10 @@
 + Uniko
 + Raistlin
 -------------------------------------------------------
-# Alpha 5.4.8
+# Realm Alpha
 -------------------------------------------------------
 
-## Requirements
-Para crear un reporte correwcto realice lo siguiente Vaya ala seccion de Issues y realice lo siguente.
+Para crear un reporte correcto realice lo siguiente, vaya ala seccion de Issues y realice lo siguente.
 
 +1< link de wowhead o cualquier base de datos para ver ya sea NPC, QUEST, TALENTO o en fin lo que este bug.
 +2< Haga una descripcion del problema lo mas exacto posible ya sea que involucre otros npc, objetos y demas.
@@ -25,5 +24,4 @@ Para crear un reporte correwcto realice lo siguiente Vaya ala seccion de Issues 
 +4< Si puede adjuntar un link de video a lo relacionado es de mayor ayuda
 
 +Gracias por su GRAN APOTE a mejorar este reino en desarollo
-
 +Staff Dark-Site

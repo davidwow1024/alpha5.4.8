@@ -6,11 +6,12 @@
 # TEAM DARKSITE
 
 + Syrus
-+ >Misu<
++ Misu
 + legolast
 + Thedark
 + Lifak
 + Uniko
++ Raistlin
 -------------------------------------------------------
 # Alpha 5.4.8
 -------------------------------------------------------

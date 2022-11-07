@@ -7,7 +7,7 @@
 
 + Syrus
 + Misu
-+ legolast
++ Legolast
 + Thedark
 + Lifak
 + Uniko
@@ -16,16 +16,16 @@
 # Realm Alpha
 -------------------------------------------------------
 
-Para crear un reporte correcto realice lo siguiente, vaya ala seccion de Issues y realice lo siguente.
+Para crear un reporte correcto realice lo siguiente, vaya a la sección de "Issues" y realice los siguentes pasos:
 
-+ 1 link de wowhead o cualquier base de datos para ver ya sea NPC, QUEST, TALENTO o en fin lo que este bug
++ 1 Link de WowHead o cualquier base de datos para ver ya sea NPC, QUEST, TALENTO o del objeto implicado en el bug o exploit.
 
-+ 2 Haga una descripcion del problema lo mas exacto posible ya sea que involucre otros npc, objetos y demas
++ 2 Haga una descripción del problema lo mas exacto posible ya sea que involucre otros npc, objetos y demás, en caso de ser posible dejar IDs también de estos.
 
-+ 3 Realice una explicacion que deberia o como de funcionar o suceder para compararlo con la base de datos
++ 3 Realice una explicación del qué/cómo debería funcionar/suceder para compararlo con su funcionamiento actual.
 
-+ 4 Si puede adjuntar un link de video a lo relacionado es de mayor ayuda
++ 4 Si puede adjuntar un link de video en relación al reporte de mayor ayuda.
 
-+ Gracias por su GRAN APOTE a mejorar este reino en desarollo
++ Gracias por su GRAN APOTE a mejorar este reino en desarollo!
 
 + Staff Dark-Site

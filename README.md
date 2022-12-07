@@ -26,6 +26,6 @@ Para crear un reporte correcto realice lo siguiente, vaya a la sección de "Issu
 
 + 4 Si puede adjuntar un link de video en relación al reporte de mayor ayuda.
 
-+ Gracias por su GRAN APOTE a mejorar este reino en desarollo!
++ Gracias por su GRAN APORTE a mejorar este reino en desarollo!
 
 + Staff Dark-Site
